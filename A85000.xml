@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The full truth of the VVelsh-affaires. Faithfully, and impartially discovered in a letter, from a gentleman of vvorth to his couzen in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85000</idno>
+            <idno type="STC">Wing F2379</idno>
+            <idno type="STC">Thomason E443_46</idno>
+            <idno type="STC">ESTC R204754</idno>
+            <idno type="EEBO-CITATION">99864217</idno>
+            <idno type="PROQUEST">99864217</idno>
+            <idno type="VID">116440</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85000)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116440)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E443[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The full truth of the VVelsh-affaires. Faithfully, and impartially discovered in a letter, from a gentleman of vvorth to his couzen in London.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 24th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wales --  History --  1536-1700 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Wales --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116440:1" rendition="simple:additions"/>
+            <p>THE FULL TRVTH OF THE Welsh-Affaires.</p>
+            <p>Faithfully, and Impartially diſ<g ref="char:EOLhyphen"/>covered in a LETTER, from a Gentleman of VVorth to his Couzen in LONDON.</p>
+            <p>Printed in the Year, 1648.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:116440:2"/>
+            <pb n="1" facs="tcp:116440:2"/>
+            <head>To the Reader.</head>
+            <p>GOod Wine needs no Buſh, nor the naked Truth any glorious dreſs: J ſhall not therefore Gentlemen at preſent in<g ref="char:EOLhyphen"/>vite you to the peruſall of theſe few lines by any <hi>Seraphical</hi> expresſions, or ſwell it out into a full ſheet by any luxuriant additions; for J am confident, it will in this its own plaine dreſse, being (as it is) moſt true, ef<g ref="char:EOLhyphen"/>fect my deſires, and alſo the Gentlemans who ſent it, the publick acceptance and be<g ref="char:EOLhyphen"/>liefe, that ſo a poore by lyes-abuſed people may at laſt be undeceived, and the God<g ref="char:EOLhyphen"/>mocking Thing at <hi>VVeſtminſter</hi> detected in its forgeries.</p>
+            <pb facs="tcp:116440:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:116440:3"/>
+            <head>THE Full Truth of the VVelsh Affairs; faithfully, and impartially diſcovered in a Letter from a Gentleman of Worth, to his Couzen in LONDON.</head>
+            <opener>
+               <salute>COUZEN;</salute>
+            </opener>
+            <p>I Hope it is not too late to returne you thanks for your Letter: the bearer and J did not forget you, though not in ſo good element. The next thing that J have to tell you, is, that I had viſited you long before this, but new, and unhappy Diſtracti<g ref="char:EOLhyphen"/>ons have faln in theſe diſtreſſed parts of <hi>South Wales,</hi> the iſſue whereof is my only let to ſtay here, and leaſt it ſhould be thought the VVell-affected are in a wo ſe condition than they are; <hi>I</hi> will
+<pb n="4" facs="tcp:116440:4"/>give you a Summary of all the actions ſince the unhappy breach.</p>
+            <p>Our Forces of the <hi>Parliament,</hi> com<g ref="char:EOLhyphen"/>manded by Colonel <hi>Horton,</hi> conſiſting of 4000. gallant men well appointed, advanced amongſt the Rocks and Hills to ſuppreſſe the inſurrection, but contrary to our aſſured expectation, the knaves tooke foure of our beſt Troupes of Horſe and Dragoones; which ſo diſcouraged our common Souldiers, that we made an honoura<g ref="char:EOLhyphen"/>ble Retreat, having a fortunate colour to ſave our Reputation, a private Gen<g ref="char:EOLhyphen"/>tleman neare the Towne of <hi>Brecknock</hi> on <hi>Gamri</hi> (ſuſpected to be ill-affected) giving us occaſion to come thither, to prevent his grand Deſigne, (endea<g ref="char:EOLhyphen"/>vouring to ſtop our intelligence, and hinder our retreat, upon which wee were then) and to this effect he had got 167. men of all ſorts to act his in<g ref="char:EOLhyphen"/>tentions,
+<pb n="5" facs="tcp:116440:4"/>which timely occaſion wee gladly laid hold on, and chearefully marched to the Town of <hi>Brecknock,</hi> where moſt gallantly wee tooke the Gentleman and his boyes; having reſted a few dayes there, the knaves our Enemies had taken <hi>Swanſey</hi> a Port Town, and in a very good order were marching towards the maine and ſtrong Caſtle of <hi>Cardiff,</hi> which rouzed us very unwillingly towards that place, where for foure dayes we faced our new Enemies, but at laſt, Horſe and Man being almoſt ſtarved, which they laboured; we found an opportu<g ref="char:EOLhyphen"/>ty to fal very advantagiouſly on them, which they made us repent, moſt cou<g ref="char:EOLhyphen"/>ragiouſly defending themſelves, and killing us, till at laſt their Ammunition was ſpent, and the Horſe at great di<g ref="char:EOLhyphen"/>ſtance not able to come to relieve their Foot, which cauſed them to the num<g ref="char:EOLhyphen"/>ber
+<pb n="6" facs="tcp:116440:5"/>of foure hundred to yeeld to our mercy; the reſt of the Army affrigh<g ref="char:EOLhyphen"/>ted, at this, fled. But this good News did not laſt long, for <hi>Chepstow</hi> was taken by ſome of thei<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> party, and 34000l. of mo<g ref="char:EOLhyphen"/>ny in it, and great ſtore of Artillery, &amp; on <hi>Wedneſday</hi> night laſt, they took 500. of our Horſe, which hath made, them: and almoſt undone us: They are ob<g ref="char:EOLhyphen"/>ſtinate, and will all periſh, if they can<g ref="char:EOLhyphen"/>not drive us to our owne Country; which we would do if we had Orders. I have no more, but my true love to you, and your good VVife; I reſt,</p>
+            <closer>
+               <signed>
+                  <hi>Your true Couzen,</hi> &amp;c.</signed>
+               <dateline>
+                  <date>May 14<hi rend="sup">th.</hi> 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116440:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
